@@ -13,6 +13,12 @@ It includes a responsive design, scrollable movie cards, a toggle-based FAQ sect
 
 ---
 
+## 📸 Preview
+
+![Netflix Clone Screenshot](./images/preview.jpg) 
+
+---
+
 ## 🚀 Features
 
 - ✅ Netflix-style landing page layout
