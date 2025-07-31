@@ -9,7 +9,7 @@ It includes a responsive design, scrollable movie cards, a toggle-based FAQ sect
 
 ## 🔗 Live Demo
 
-👉 [Click here to view live](https://ankushsharma07.github.io/Netflix-Clone/)
+👉 [Click here to view live](http://127.0.0.1:5500/Netflixclone.html)
 
 ---
 
