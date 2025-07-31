@@ -15,7 +15,7 @@ It includes a responsive design, scrollable movie cards, a toggle-based FAQ sect
 
 ## 📸 Preview
 
-![Netflix Clone Screenshot](./assets/aq.jpg) 
+![Netflix Clone Screenshot](https://cdn.corenexis.com/file?1658763168.png) 
 
 ---
 
